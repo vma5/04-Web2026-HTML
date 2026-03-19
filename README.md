@@ -2,7 +2,7 @@
 
 
 🍳 Sabores do Mundo - Site de Receitas
-Este é um projeto de site de receitas com três páginas, desenvolvido em HTML5 e CSS3. O objetivo é oferecer uma interface limpa, visualmente atraente e responsiva para exibir pratos e instruções culinárias.
+Este é um projeto de site de receitas com três páginas, desenvolvido em HTML. O objetivo é oferecer uma interface limpa, visualmente atraente e responsiva para exibir pratos e instruções culinárias.
 
 🚀 Funcionalidades
 Página Inicial: Destaque para a receita do dia e boas-vindas.
